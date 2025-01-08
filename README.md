@@ -24,3 +24,5 @@ Tested on both Windows 10 and Windows 11.
 | 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
 </p>
 
+I, Gustavo will be using this Template, to create games as a challenge.
+
